@@ -14,5 +14,7 @@ public class Main {
 
         System.out.println("You added the number: " + number);
 
+        System.out.println("Mittag is");
+
     }
 }
