@@ -5,16 +5,16 @@ import java.util.Scanner;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+    Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter a number: ");
-        int number = scanner.nextInt();
+    System.out.print("Enter a number: ");
+    int number = scanner.nextInt();
 
-        System.out.println("You added the number: " + number);
+    System.out.println("You added the number: " + number);
 
-        System.out.println("Mittag is");
+    System.out.println("Mittag is");
 
-    }
+  }
 }
