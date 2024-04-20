@@ -12,6 +12,7 @@ public class Main {
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
 
-        System.out.println("You added the number: "+number);
+        System.out.println("You added the number: " + number);
 
+    }
 }
